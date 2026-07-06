@@ -7,7 +7,7 @@ module.exports = {
 
   activity: {
     name: "Juice gng on top",
-    type: "COMPETING" // PLAYING, LISTENING, WATCHING, STREAMING, COMPETING
+    type: "STREAMING" // PLAYING, LISTENING, WATCHING, STREAMING, COMPETING
   },
 
   express: {
