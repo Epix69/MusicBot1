@@ -3,11 +3,11 @@ module.exports = {
   token: process.env.DISCORD_TOKEN,
   prefix: "!",
   enablePrefix: true,
-  supportServer: "https://discord.gg/9MVAPpfs8D",
+  supportServer: "https://discord.gg/nszGzeNSZa",
 
   activity: {
-    name: "EPIX",
-    type: "STREAMING" // PLAYING, LISTENING, WATCHING, STREAMING, COMPETING
+    name: "Juice gng on top",
+    type: "COMPETING" // PLAYING, LISTENING, WATCHING, STREAMING, COMPETING
   },
 
   express: {
